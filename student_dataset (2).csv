@@ -1,0 +1,11 @@
+Student_ID,Study_Hours,Attendance,Previous_Marks,Assignments,Internal_Marks,Result
+1,2,65,55,50,52,Fail
+2,4,75,60,60,62,Pass
+3,6,92,85,88,86,Pass
+4,1,50,40,45,42,Fail
+5,5,85,75,78,76,Pass
+6,7,96,90,92,91,Pass
+7,3,70,65,68,66,Fail
+8,6,88,80,85,82,Pass
+9,4,78,72,74,73,Pass
+10,5,82,77,79,78,Pass
